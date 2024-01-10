@@ -1,0 +1,224 @@
+[i] uncommon residue 2MG   10  on chain A [#10] assigned to: g
+[i] uncommon residue H2U   16  on chain A [#16] assigned to: u
+[i] uncommon residue H2U   17  on chain A [#17] assigned to: u
+[i] uncommon residue M2G   26  on chain A [#26] assigned to: g
+[i] uncommon residue OMC   32  on chain A [#32] assigned to: c
+[i] uncommon residue OMG   34  on chain A [#34] assigned to: g
+[i] uncommon residue  YG   37  on chain A [#37] assigned to: g
+[i] uncommon residue PSU   39  on chain A [#39] assigned to: P
+[i] uncommon residue 5MC   40  on chain A [#40] assigned to: c
+[i] uncommon residue 7MG   46  on chain A [#46] assigned to: g
+[i] uncommon residue 5MC   49  on chain A [#49] assigned to: c
+[i] uncommon residue 5MU   54  on chain A [#54] assigned to: t
+[i] uncommon residue PSU   55  on chain A [#55] assigned to: P
+[i] uncommon residue 1MA   58  on chain A [#58] assigned to: a
+[i] uncommon residue 2MG   10  on chain A [#10] assigned to: g
+[i] uncommon residue H2U   16  on chain A [#16] assigned to: u
+[i] uncommon residue H2U   17  on chain A [#17] assigned to: u
+[i] uncommon residue M2G   26  on chain A [#26] assigned to: g
+[i] uncommon residue OMC   32  on chain A [#32] assigned to: c
+[i] uncommon residue OMG   34  on chain A [#34] assigned to: g
+[i] uncommon residue  YG   37  on chain A [#37] assigned to: g
+[i] uncommon residue PSU   39  on chain A [#39] assigned to: P
+[i] uncommon residue 5MC   40  on chain A [#40] assigned to: c
+[i] uncommon residue 7MG   46  on chain A [#46] assigned to: g
+[i] uncommon residue 5MC   49  on chain A [#49] assigned to: c
+[i] uncommon residue 5MU   54  on chain A [#54] assigned to: t
+[i] uncommon residue PSU   55  on chain A [#55] assigned to: P
+[i] uncommon residue 1MA   58  on chain A [#58] assigned to: a
+[i] uncommon residue 5BU    4  on chain A [#4] assigned to: u
+[i] uncommon residue 5BU   11  on chain A [#11] assigned to: u
+[i] uncommon residue 5BU   25  on chain A [#25] assigned to: u
+[i] uncommon residue 5BU   32  on chain A [#32] assigned to: u
+[i] uncommon residue 5BU   36  on chain A [#36] assigned to: u
+[i] uncommon residue 5BU    4  on chain A [#4] assigned to: u
+[i] uncommon residue 5BU   11  on chain A [#11] assigned to: u
+[i] uncommon residue 5BU   25  on chain A [#25] assigned to: u
+[i] uncommon residue 5BU   32  on chain A [#32] assigned to: u
+[i] uncommon residue 5BU   36  on chain A [#36] assigned to: u
+[i] uncommon residue 2MG    6  on chain A [#6] assigned to: g
+[i] uncommon residue 2MG   10  on chain A [#10] assigned to: g
+[i] uncommon residue H2U   16  on chain A [#16] assigned to: u
+[i] uncommon residue H2U   20  on chain A [#20] assigned to: u
+[i] uncommon residue PSU   27  on chain A [#27] assigned to: P
+[i] uncommon residue 70U   34  on chain A [#34] assigned to: u
+[i] uncommon residue 12A   37  on chain A [#37] assigned to: a
+[i] uncommon residue PSU   39  on chain A [#39] assigned to: P
+[i] uncommon residue 7MG   46  on chain A [#46] assigned to: g
+[i] uncommon residue H2U   47  on chain A [#47] assigned to: u
+[i] uncommon residue 5MC   48  on chain A [#48] assigned to: c
+[i] uncommon residue 5MC   49  on chain A [#49] assigned to: c
+[i] uncommon residue 2MU   54  on chain A [#54] assigned to: u
+[i] uncommon residue PSU   55  on chain A [#55] assigned to: P
+[i] uncommon residue 1MA   58  on chain A [#58] assigned to: a
+[i] uncommon residue 2MG    6  on chain A [#6] assigned to: g
+[i] uncommon residue 2MG   10  on chain A [#10] assigned to: g
+[i] uncommon residue H2U   16  on chain A [#16] assigned to: u
+[i] uncommon residue H2U   20  on chain A [#20] assigned to: u
+[i] uncommon residue PSU   27  on chain A [#27] assigned to: P
+[i] uncommon residue 70U   34  on chain A [#34] assigned to: u
+[i] uncommon residue 12A   37  on chain A [#37] assigned to: a
+[i] uncommon residue PSU   39  on chain A [#39] assigned to: P
+[i] uncommon residue 7MG   46  on chain A [#46] assigned to: g
+[i] uncommon residue H2U   47  on chain A [#47] assigned to: u
+[i] uncommon residue 5MC   48  on chain A [#48] assigned to: c
+[i] uncommon residue 5MC   49  on chain A [#49] assigned to: c
+[i] uncommon residue 2MU   54  on chain A [#54] assigned to: u
+[i] uncommon residue PSU   55  on chain A [#55] assigned to: P
+[i] uncommon residue 1MA   58  on chain A [#58] assigned to: a
+[i] uncommon residue 5BU   16  on chain A [#16] assigned to: u
+[i] uncommon residue 5BU   16  on chain B [#35] assigned to: u
+[i] uncommon residue 5BU   16  on chain A [#16] assigned to: u
+[i] uncommon residue 5BU   16  on chain B [#35] assigned to: u
+[i] uncommon residue 5BU   16  on chain A [#11] assigned to: u
+[i] uncommon residue 5BU   26  on chain A [#21] assigned to: u
+[i] uncommon residue 5BU   36  on chain A [#31] assigned to: u
+[i] uncommon residue 5BU   37  on chain A [#32] assigned to: u
+[i] uncommon residue 5BU   38  on chain A [#33] assigned to: u
+[i] uncommon residue 5BU   44  on chain A [#39] assigned to: u
+[i] uncommon residue 5BU   16  on chain A [#11] assigned to: u
+[i] uncommon residue 5BU   26  on chain A [#21] assigned to: u
+[i] uncommon residue 5BU   36  on chain A [#31] assigned to: u
+[i] uncommon residue 5BU   37  on chain A [#32] assigned to: u
+[i] uncommon residue 5BU   38  on chain A [#33] assigned to: u
+[i] uncommon residue 5BU   44  on chain A [#39] assigned to: u
+Match 'BVC' to 'c' for residue BVC    3  on chain A [#3]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC    4  on chain A [#4]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC   18  on chain B [#18]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC   19  on chain B [#19]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC    3  on chain A [#3]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC    4  on chain A [#4]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC   18  on chain B [#18]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC   19  on chain B [#19]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+[i] uncommon residue CCC   81  on chain X [#67] assigned to: c
+[i] uncommon residue CCC   81  on chain X [#67] assigned to: c
+[i] uncommon residue 1MG    9  on chain A [#9] assigned to: g
+[i] uncommon residue 2MG   10  on chain A [#10] assigned to: g
+[i] uncommon residue H2U   16  on chain A [#16] assigned to: u
+[i] uncommon residue M2G   26  on chain A [#25] assigned to: g
+[i] uncommon residue T6A   37  on chain A [#36] assigned to: a
+[i] uncommon residue 7MG   46  on chain A [#45] assigned to: g
+[i] uncommon residue H2U   47  on chain A [#46] assigned to: u
+[i] uncommon residue 5MC   48  on chain A [#47] assigned to: c
+[i] uncommon residue 5MC   49  on chain A [#48] assigned to: c
+[i] uncommon residue 1MA   58  on chain A [#57] assigned to: a
+[i] uncommon residue RIA   64  on chain A [#63] assigned to: a
+[i] uncommon residue 1MG    9  on chain A [#9] assigned to: g
+[i] uncommon residue 2MG   10  on chain A [#10] assigned to: g
+[i] uncommon residue H2U   16  on chain A [#16] assigned to: u
+[i] uncommon residue M2G   26  on chain A [#25] assigned to: g
+[i] uncommon residue T6A   37  on chain A [#36] assigned to: a
+[i] uncommon residue 7MG   46  on chain A [#45] assigned to: g
+[i] uncommon residue H2U   47  on chain A [#46] assigned to: u
+[i] uncommon residue 5MC   48  on chain A [#47] assigned to: c
+[i] uncommon residue 5MC   49  on chain A [#48] assigned to: c
+[i] uncommon residue 1MA   58  on chain A [#57] assigned to: a
+[i] uncommon residue RIA   64  on chain A [#63] assigned to: a
+[i] uncommon residue 5BU    2  on chain A [#2] assigned to: u
+[i] uncommon residue 5BU    2  on chain B [#25] assigned to: u
+[i] uncommon residue 5BU    2  on chain A [#2] assigned to: u
+[i] uncommon residue 5BU    2  on chain B [#25] assigned to: u
+[i] uncommon residue 5BU    3  on chain A [#3] assigned to: u
+[i] uncommon residue 5BU   14  on chain B [#32] assigned to: u
+[i] uncommon residue 5BU    3  on chain A [#3] assigned to: u
+[i] uncommon residue 5BU   14  on chain B [#32] assigned to: u
+[i] uncommon residue OMC    6  on chain B [#48] assigned to: c
+[i] uncommon residue 5BU   11  on chain B [#53] assigned to: u
+[i] uncommon residue OMC    6  on chain B [#48] assigned to: c
+[i] uncommon residue 5BU   11  on chain B [#53] assigned to: u
+[i] uncommon residue 5BU    6  on chain A [#6] assigned to: u
+[i] uncommon residue 5BU   19  on chain B [#19] assigned to: u
+[i] uncommon residue 5BU    6  on chain A [#6] assigned to: u
+[i] uncommon residue 5BU   19  on chain B [#19] assigned to: u
+[i] uncommon residue 1SC    4  on chain A [#4] assigned to: c
+[i] uncommon residue 1SC    4  on chain A [#4] assigned to: c
+[i] uncommon residue PSU    6  on chain A [#6] assigned to: P
+[i] uncommon residue PSU    6  on chain A [#6] assigned to: P
+[i] uncommon residue M2G    6  on chain A [#6] assigned to: g
+[i] uncommon residue M2G   19  on chain B [#19] assigned to: g
+[i] uncommon residue M2G    6  on chain A [#6] assigned to: g
+[i] uncommon residue M2G   19  on chain B [#19] assigned to: g
+[i] uncommon residue 5BU 1406  on chain A [#10] assigned to: u
+[i] uncommon residue 5BU 1487  on chain B [#25] assigned to: u
+[i] uncommon residue 5BU 1406  on chain A [#10] assigned to: u
+[i] uncommon residue 5BU 1487  on chain B [#25] assigned to: u
+[i] uncommon residue CCC   88  on chain A [#87] assigned to: c
+[i] uncommon residue CCC   88  on chain A [#87] assigned to: c
+[i] uncommon residue 5BU   12  on chain A [#12] assigned to: u
+[i] uncommon residue 5BU   29  on chain E [#29] assigned to: u
+[i] uncommon residue 5BU   12  on chain A [#12] assigned to: u
+[i] uncommon residue 5BU   29  on chain E [#29] assigned to: u
+Match '7TA' to 'a' for residue 7TA    5  on chain B [#5]
+    check it & consider to add line '7TA     a' to file <baselist.dat>
+Match '7TA' to 'a' for residue 7TA    5  on chain C [#21]
+    check it & consider to add line '7TA     a' to file <baselist.dat>
+[i] missing ' N7 ' atom : residue name '7TA', chain B, number [   5 ]
+[i] missing ' C8 ' atom : residue name '7TA', chain B, number [   5 ]
+[i] missing ' N7 ' atom : residue name '7TA', chain C, number [   5 ]
+[i] missing ' C8 ' atom : residue name '7TA', chain C, number [   5 ]
+Match '7TA' to 'a' for residue 7TA    5  on chain B [#5]
+    check it & consider to add line '7TA     a' to file <baselist.dat>
+Match '7TA' to 'a' for residue 7TA    5  on chain C [#21]
+    check it & consider to add line '7TA     a' to file <baselist.dat>
+[i] missing ' N7 ' atom : residue name '7TA', chain B, number [   5 ]
+[i] missing ' C8 ' atom : residue name '7TA', chain B, number [   5 ]
+[i] missing ' N7 ' atom : residue name '7TA', chain C, number [   5 ]
+[i] missing ' C8 ' atom : residue name '7TA', chain C, number [   5 ]
+[i] uncommon residue 5BU   11  on chain A [#11] assigned to: u
+[i] uncommon residue 5BU   34  on chain B [#34] assigned to: u
+[i] uncommon residue 5BU   11  on chain A [#11] assigned to: u
+[i] uncommon residue 5BU   34  on chain B [#34] assigned to: u
+[i] uncommon residue PSU    5  on chain A [#5] assigned to: P
+[i] uncommon residue PSU    5  on chain A [#5] assigned to: P
+[i] uncommon residue 2SG  104  on chain A [#4] assigned to: g
+[i] uncommon residue 2SG  104  on chain A [#4] assigned to: g
+[i] uncommon residue  IU   17  on chain E [#17] assigned to: u
+[i] uncommon residue  IU   17  on chain Y [#53] assigned to: u
+[i] uncommon residue  IU   17  on chain E [#17] assigned to: u
+[i] uncommon residue  IU   17  on chain Y [#53] assigned to: u
+[i] uncommon residue 4SU    8  on chain A [#8] assigned to: u
+[i] uncommon residue H2U   21  on chain A [#21] assigned to: u
+[i] uncommon residue OMC   33  on chain A [#33] assigned to: c
+[i] uncommon residue 5MU   55  on chain A [#55] assigned to: t
+[i] uncommon residue PSU   56  on chain A [#56] assigned to: P
+[i] uncommon residue 4SU    8  on chain A [#8] assigned to: u
+[i] uncommon residue H2U   21  on chain A [#21] assigned to: u
+[i] uncommon residue OMC   33  on chain A [#33] assigned to: c
+[i] uncommon residue 5MU   55  on chain A [#55] assigned to: t
+[i] uncommon residue PSU   56  on chain A [#56] assigned to: P
+Match 'BVC' to 'c' for residue BVC   17  on chain A [#17]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC   17  on chain B [#37]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC   17  on chain A [#17]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC   17  on chain B [#37]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+[i] uncommon residue 5BU  107  on chain A [#7] assigned to: u
+[i] uncommon residue 5BU  207  on chain B [#18] assigned to: u
+[i] uncommon residue 5BU  107  on chain A [#7] assigned to: u
+[i] uncommon residue 5BU  207  on chain B [#18] assigned to: u
+[i] uncommon residue 5BU    9  on chain A [#5] assigned to: u
+[i] uncommon residue 5BU    9  on chain B [#20] assigned to: u
+[i] uncommon residue 5BU    9  on chain A [#5] assigned to: u
+[i] uncommon residue 5BU    9  on chain B [#20] assigned to: u
+Match 'BVC' to 'c' for residue BVC    4  on chain A [#4]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC    4  on chain A [#4]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC   17  on chain A [#17]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC   17  on chain A [#17]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC   36  on chain A [#35]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
+Match 'BVC' to 'c' for residue BVC   36  on chain A [#35]
+    check it & consider to add line 'BVC     c' to file <baselist.dat>
