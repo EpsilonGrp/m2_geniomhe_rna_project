@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Data
-df = pd.read_csv('c:/Users/daphn/Downloads/RNA_project_DSSR/test.csv')
+df = pd.read_csv('../../RNA_project_DSSR/test.csv')
 
 # Converting 'epsilon' column to numeric
 df['epsilon'] = pd.to_numeric(df['epsilon'], errors='coerce')
@@ -58,7 +58,7 @@ def assign_class(epsilon):
 df['class'] = df['epsilon'].apply(assign_class)
 
 # Saving of the updated DataFrame to a new CSV file
-df.to_csv('c:/Users/daphn/Downloads/RNA_project_DSSR/test_with_classes_11_12.csv', index=False)
+df.to_csv('../../RNA_project_DSSR/test_with_classes.csv', index=False)
 
 
 

@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Sample data
-df = pd.read_csv('c:/Users/daphn/Downloads/RNA_project_DSSR/training.csv')
+df = pd.read_csv('../../RNA_project_DSSR/training.csv')
 
 # Converting 'epsilon' column to numeric
 df['epsilon'] = pd.to_numeric(df['epsilon'], errors='coerce')

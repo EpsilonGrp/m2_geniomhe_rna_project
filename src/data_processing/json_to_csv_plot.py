@@ -37,13 +37,13 @@ def plot_histogram(csv_file):
 
 if __name__ == "__main__":
     # Read JSON data from file
-    json_file_path = 'C:/Users/daphn/Downloads/test.json'
+    json_file_path = '../../data/test.json'
     with open(json_file_path, 'r') as json_file:
         json_data = json.load(json_file)
     
     # Extract epsilon angles and save to CSV
     epsilon_data = extract_epsilon_angles(json_data)
-    csv_file_path = 'C:/Users/daphn/Downloads/output.csv'
+    csv_file_path = '../../data/output.csv'
     save_to_csv(epsilon_data, csv_file_path)
     
     # Plot histogram
