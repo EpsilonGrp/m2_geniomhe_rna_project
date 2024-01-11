@@ -1,10 +1,17 @@
 import os
 import json
 import pandas as pd
+from tensorflow.keras.models import load_model
+
+# Replace 'your_model_path.h5' with the path to your saved Keras model file
+#model_path = 'modelLSTMRNA'
+
+# Load the Keras model
+#model = load_model(model_path)
 
 class AngleHelper:
   def __init__(self,model):
-    
+
     # Given that the trained model is previously loaded and passed as an argument
     self.model=model
     self.classes= {
@@ -65,7 +72,7 @@ class AngleHelper:
               "angles": {}
             }
 
-    
+
     #Creation of the input data from the fasta file
 
     df = pd.DataFrame(columns=['A', 'G', 'C', 'U', 'rank'])
@@ -77,28 +84,30 @@ class AngleHelper:
         df = df.append(row, ignore_index=True)
 
     # Convert the DataFrame to a NumPy array
-    data_array = df[['A', 'G', 'C', 'U','rank']].to_numpy()
+    data_array = df[['A', 'G', 'C', 'U','rank']].astype(int).values
+    data_array = data_array.reshape((data_array.shape[0], 1, data_array.shape[1]))
+
 
     #Predict the encoded classes
     encoded_pred=self.model.predict(data_array)
 
+
     #Convert them into angles
     epsilon=[]
     for prediction in encoded_pred:
-      epsilon.append(self.classes(str(prediction)))
-    
+      epsilon.append(self.classes[(str(int(np.ceil(prediction[0]))))])
     output[name]["angles"]["epsilon"]=epsilon
 
     #Save the dictionnary in a json file
     with open(out_path, 'w') as json_file:
       json.dump(output, json_file, indent=2)
-    
-    
+
+
     return None
 
 if __name__ == "__main__":
     # Example of usage
-    in_path = os.path.join("data", "sample", "example.fasta")
+    in_path = os.path.join("example.fasta")
     out_path = "sample.json"
-    angle_helper = AngleHelper()
+    angle_helper = AngleHelper(model)
     angle_helper.predict(in_path, out_path)
