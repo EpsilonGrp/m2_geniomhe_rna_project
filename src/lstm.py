@@ -34,7 +34,7 @@ from sklearn.metrics import mean_absolute_error
 uploaded = files.upload()
 
 # Assuming you uploaded 'training_with_classes.csv'
-file_path = 'New_training.csv'
+file_path = 'Final_trainingset.csv'
 df = pd.read_csv(file_path)
 
 """Preprocessing"""
@@ -204,6 +204,16 @@ testPredict_scaled = model.predict(x_test_reshaped)
 trainPredict = scaler_y.inverse_transform(trainPredict_scaled)
 testPredict = scaler_y.inverse_transform(testPredict_scaled)
 
+# Calculate MAE for training set
+mae_train = mean_absolute_error(y_train.flatten(), trainPredict.flatten())
+print(f"Mean Absolute Error (MAE) - Training Set: {mae_train}")
+
+# Calculate MAE for test set
+mae_test = mean_absolute_error(y_test.flatten(), testPredict.flatten())
+print(f"Mean Absolute Error (MAE) - Testing Set: {mae_test}")
+
+"""## Results Visualisation"""
+
 # Plot baseline and predictions for the training set
 plt.xlabel('Time')
 plt.ylabel('Values')
@@ -217,33 +227,6 @@ plt.xlabel('Time')
 plt.ylabel('Values')
 plt.plot(y_test.flatten(), label='target')
 plt.plot(testPredict.flatten(), label='prediction')
-plt.legend()
-plt.show()
-
-# Calculate MAE for training set
-mae_train = mean_absolute_error(y_train.flatten(), trainPredict.flatten())
-print(f"Mean Absolute Error (MAE) - Training Set: {mae_train}")
-
-# Calculate MAE for test set
-mae_test = mean_absolute_error(y_test.flatten(), testPredict.flatten())
-
-"""## Results Visualisation"""
-
-# Plot baseline and predictions for the training set
-plt.xlabel('Time')
-plt.ylabel('Values')
-plt.plot(y_train[:, 0], label='target')  # Change here
-trainPredict = (model.predict(x_train_reshaped))[:, 0]  # Change here
-plt.plot(trainPredict, label='prediction')
-plt.legend()
-plt.show()
-
-# Plot baseline and predictions for the test set
-plt.xlabel('Time')
-plt.ylabel('Values')
-plt.plot(y_test[:, 0], label='target')  # Change here
-testPredict = (model.predict(x_test_reshaped))[:, 0]  # Change here
-plt.plot(testPredict, label='prediction')
 plt.legend()
 plt.show()
 
